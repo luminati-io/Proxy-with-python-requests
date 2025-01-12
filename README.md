@@ -1,8 +1,5 @@
-+++
-date = "2025-01-12T11:34:22+03:00"
-title = "Using a Proxy with Python Requests"
-writer = "Davis David"
-+++
+# Using a Proxy with Python Requests
+
 
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/) 
 
