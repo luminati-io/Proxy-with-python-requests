@@ -81,7 +81,7 @@ for link in links:
 
 Here is the output from running the script above:
 
-![Scraped links](https://brightdata.com/wp-content/uploads/2023/12/link-to-webpage-2-1024x653.png)
+![Scraped links](https://github.com/luminati-io/Proxy-with-python-requests/blob/main/link-to-webpage-2-1024x653.png)
 
 ## Setting Proxies via Environment Variables
 
@@ -208,15 +208,15 @@ You can [integrate Bright Data’s datacenter proxies](https://brightdata.com/in
 
 1. Click **View proxy product** on the welcome page to view the different types of proxy offered by Bright Data:
 
-![Bright Data proxy types](https://brightdata.com/wp-content/uploads/2023/06/bright-data-proxy-types-1024x464.png)
+![Bright Data proxy types](https://github.com/luminati-io/Proxy-with-python-requests/blob/main/bright-data-proxy-types-1024x464.png)
 
 2. Select **Datacenter Proxies** to create a new proxy, and on the subsequent page, add your details, and save it:
 
-![Datacenter proxies configuration](https://brightdata.com/wp-content/uploads/2023/06/datacenter-proxies-837x1024.png)
+![Datacenter proxies configuration](https://github.com/luminati-io/Proxy-with-python-requests/blob/main/datacenter-proxies-837x1024.png)
 
 3. Once your proxy is created, the dashboard will show you parameters such as the host, the port, the username, and the password to use in your scripts:
 
-![Datacenter proxy parameters](https://brightdata.com/wp-content/uploads/2023/06/datacenter-proxy-parameters-928x1024.png)
+![Datacenter proxy parameters](https://github.com/luminati-io/Proxy-with-python-requests/blob/main/datacenter-proxy-parameters-928x1024.png)
 
 4. Copy-paste these parameters to your script and use the following format of the proxy URL: `username-(session-id)-password@host:port`.
 
