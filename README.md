@@ -63,7 +63,7 @@ proxies = {
 }  
   
 # Define a link to the web page.  
-url = "https://brightdata.com/"  
+url = "https://example.com/"   
   
 # Send a GET request to the website.  
 response = requests.get(url, proxies=proxies)  
@@ -100,7 +100,7 @@ import requests
 from bs4 import BeautifulSoup  
   
 # Define a link to the web page.  
-url = "https://brightdata.com/"  
+url = "https://example.com/"   
   
 # Send a GET request to the website.  
 response = requests.get(url)  
@@ -245,7 +245,7 @@ proxy_url = ('http://{}-session-{}:{}@{}:{}'.format(username, session_id,
 proxies = {'http': proxy_url, 'https': proxy_url}  
   
 # Send a GET request to the website  
-url = "https://brightdata.com/"  
+url = "https://example.com/"   
 response = requests.get(url, proxies=proxies)  
   
 # Use BeautifulSoup to parse the HTML content of the website  
