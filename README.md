@@ -1,7 +1,7 @@
 # Using a Proxy with Python Requests
 
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/proxy-types/residential-proxies) 
 
 In this guide, you will learn how to use proxies with Python requests, particularly for [web scraping](https://brightdata.com/blog/how-tos/what-is-web-scraping), to [bypass website restrictions](https://brightdata.com/blog/proxy-101/how-to-bypass-an-ip-ban) by changing your IP and location:
 
@@ -117,6 +117,8 @@ for link in links:
 ```
 
 ## Rotating Proxies Using a Custom Method and an Array of Proxies
+
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/residential-proxies) 
 
 Rotating proxies helps work around the restrictions that websites put when they receive a large number of requests from the same IP address.
 
